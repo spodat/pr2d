@@ -1,0 +1,25 @@
+{
+  "name": "spodat-pr2da",
+  "description": "Premiership data extraction",
+  "main": "fixtures.js",
+  "scripts": {
+    "start": "node fixtures.js"
+  },
+  "dependencies": {
+    "pg": "4.x",
+    "express": "~4.9.x"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spodat/pr2da"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
